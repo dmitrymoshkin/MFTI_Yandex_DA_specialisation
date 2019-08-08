@@ -1,0 +1,6 @@
+Log file created at: 2019/05/09 15:02:12
+Running on machine: DESKTOP-O70OTE3
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0509 15:02:12.309357  2392 check_messages.h:1121] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0509 15:03:25.814558  2392 check_messages.h:1121] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0509 15:04:04.972520  2392 check_messages.h:1121] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
