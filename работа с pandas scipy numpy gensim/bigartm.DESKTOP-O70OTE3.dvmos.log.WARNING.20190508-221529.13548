@@ -1,0 +1,130 @@
+Log file created at: 2019/05/08 22:15:29
+Running on machine: DESKTOP-O70OTE3
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0508 22:15:29.665037 13824 c_interface.cc:59] InvalidOperation :  Dictionary 'dictionary' does not exist
+E0508 22:16:04.223721 13824 c_interface.cc:59] InvalidOperation :  Dictionary 'dictionary' does not exist
+E0508 22:16:23.595369  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.599366  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.603469   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.603469  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.603469  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.603469  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.619096  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.634719  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.634719   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.634719  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.634719  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.634719  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.634719   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.634719  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.634719  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.634719  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.634719   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.650344  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.665968  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.665968  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.665968   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.665968  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.665968  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.665968  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.665968   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.665968  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.665968  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.665968  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.665968   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.681594  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.681594  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.681594  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.681594   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.681594  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.681594  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.681594  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.681594   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.681594  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.681594  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.681594  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.681594   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.697218  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.697218  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.697218  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.697218   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.697218  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.697218  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.697218  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.697218   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.697218  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.697218  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.697218  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.697218   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.712843  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.712843  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.712843  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.712843   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.712843  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.712843  8020 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.712843  4732 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.712843   344 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+E0508 22:16:23.712843  2316 perplexity.cc:52] Perplexity was configured to use UnigramCollectionModel with dictionary dictionary. This dictionary can't be found.
+W0508 23:26:07.208667 10724 helpers.cc:221] File already exists: school_batches\aaaaaa.batch
+W0508 23:26:07.242599  5304 helpers.cc:221] File already exists: school_batches\aaaaab.batch
+W0508 23:26:07.265584  1736 helpers.cc:221] File already exists: school_batches\aaaaac.batch
+W0508 23:26:07.279577 10200 helpers.cc:221] File already exists: school_batches\aaaaad.batch
+W0508 23:26:07.369520 10724 helpers.cc:221] File already exists: school_batches\aaaaae.batch
+W0508 23:38:48.890511 10724 helpers.cc:221] File already exists: school_batches\aaaaaa.batch
+W0508 23:38:48.922487 10200 helpers.cc:221] File already exists: school_batches\aaaaab.batch
+W0508 23:38:48.928556  1736 helpers.cc:221] File already exists: school_batches\aaaaac.batch
+W0508 23:38:48.944183  5304 helpers.cc:221] File already exists: school_batches\aaaaad.batch
+W0508 23:38:49.055294 10724 helpers.cc:221] File already exists: school_batches\aaaaae.batch
+W0508 23:40:01.580209 10724 helpers.cc:221] File already exists: school_batches\aaaaaa.batch
+W0508 23:40:01.611459  5304 helpers.cc:221] File already exists: school_batches\aaaaab.batch
+W0508 23:40:01.627084  1736 helpers.cc:221] File already exists: school_batches\aaaaac.batch
+W0508 23:40:01.642712 10200 helpers.cc:221] File already exists: school_batches\aaaaad.batch
+W0508 23:40:01.705204 10724 helpers.cc:221] File already exists: school_batches\aaaaae.batch
+W0508 23:49:58.352658 10724 helpers.cc:221] File already exists: school_batches\aaaaaa.batch
+W0508 23:49:58.368283  5304 helpers.cc:221] File already exists: school_batches\aaaaad.batch
+W0508 23:49:58.383908 10200 helpers.cc:221] File already exists: school_batches\aaaaab.batch
+W0508 23:49:58.399534  1736 helpers.cc:221] File already exists: school_batches\aaaaac.batch
+W0508 23:49:58.493283 10724 helpers.cc:221] File already exists: school_batches\aaaaae.batch
+W0508 23:52:50.856195 10724 helpers.cc:221] File already exists: school_batches\aaaaaa.batch
+W0508 23:52:50.871819  1736 helpers.cc:221] File already exists: school_batches\aaaaab.batch
+W0508 23:52:50.903069 10200 helpers.cc:221] File already exists: school_batches\aaaaad.batch
+W0508 23:52:50.934317  5304 helpers.cc:221] File already exists: school_batches\aaaaac.batch
+W0508 23:52:50.981194 10724 helpers.cc:221] File already exists: school_batches\aaaaae.batch
